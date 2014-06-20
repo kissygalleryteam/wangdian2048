@@ -1,0 +1,17 @@
+{
+    "name": "wangdian2048",
+    "comName":"Wangdian2048",
+    "version": "1.0",
+    "desc": "",
+    "tag":"移动未来科技,kissy-mini",
+    "githubName":"zhaoest",
+    "author": {
+        "name": "tao21.org",
+        "email": "zhaoest@126.com",
+        "page": ""
+    },
+	"flexComboPort":"8081",
+	"reserveServerPort":"8080",
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
